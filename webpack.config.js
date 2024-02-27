@@ -12,7 +12,7 @@ module.exports = {
   output: {
     uniqueName: "mfeApp",
     publicPath: "auto",
-    scriptType: "text/javascript"
+    scriptType: "module"
     
   },
   optimization: {
