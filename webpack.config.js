@@ -13,6 +13,7 @@ module.exports = {
     uniqueName: "mfeApp",
     publicPath: "auto",
     scriptType: "text/javascript"
+    
   },
   optimization: {
     runtimeChunk: false
